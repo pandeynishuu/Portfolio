@@ -30,6 +30,10 @@ nav a.router-link-exact-active {
 .body {
   background-color: #071125;
 }
+@import url('https://fonts.googleapis.com/css?family=Raleway:900');
 
+* {
+    font-family: Raleway;
+}
 
 </style>
