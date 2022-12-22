@@ -8,7 +8,7 @@
               </section>
               <!-- about section -->
               <section class="about-section">
-                <about-view/>
+                <about-view id="about"/>
               </section>
         </div>
     </main>
